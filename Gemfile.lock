@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    newrelic_rpm (3.15.0.314)
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  newrelic_rpm
+  rack
+
+BUNDLED WITH
+   1.10.6
